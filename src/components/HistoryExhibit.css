@@ -1,0 +1,14 @@
+.exhibit {
+    background-color: #5F9EA0;
+    font-weight: 400;
+    padding: 2em 0;
+    overflow: scroll;
+    overflow-y: auto;
+    max-height: 100vh;
+    overflow-x: hidden;
+  }
+  
+.exhibit-img {
+    width: 100px;
+    margin-top: 2em;
+  }
